@@ -1,0 +1,24 @@
+{
+  "name": "gregsgr8gatsby",
+  "version": "1.0.0",
+  "description": "gatsby.js ft emotion.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "emogat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0rnfly/gregsgr8gatsby.git"
+  },
+  "keywords": [
+    "redux",
+    "emotion",
+    "gatsby"
+  ],
+  "author": "Gregory Shenefelt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0rnfly/gregsgr8gatsby/issues"
+  },
+  "homepage": "https://github.com/b0rnfly/gregsgr8gatsby#readme"
+}
